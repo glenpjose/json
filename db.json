@@ -1,0 +1,116 @@
+{
+  "videos": [
+    {
+      "id": "6",
+      "caption": "Brahmayugam",
+      "url": "https://timesofindia.indiatimes.com/photo/102820189.cms",
+      "embedLink": "https://www.youtube.com/embed/SfsWWXQK8pg"
+    },
+    {
+      "id": "11",
+      "caption": "PHILIPS",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Philip%27s_Movie_Poster.jpg",
+      "embedLink": "https://www.youtube.com/embed/kE-NXuzFnUU"
+    },
+    {
+      "id": "13",
+      "caption": "A",
+      "url": "https://i.ytimg.com/vi/L0yEMl8PXnw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfGcWMh6kfm_yEZGgGSZZ2OEGO0g",
+      "embedLink": "https://www.youtube.com/embed/L0yEMl8PXnw"
+    },
+    {
+      "id": "14",
+      "caption": "ANVESHIPIN KANDATHUM",
+      "url": "https://i.ytimg.com/vi/FQZ5_AtbO2o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzWfb5Rnz1ZFuU-2HTpsZHZefw2g",
+      "embedLink": "https://www.youtube.com/embed/FQZ5_AtbO2o"
+    },
+    {
+      "id": "15",
+      "caption": "THUNDU",
+      "url": "https://i.ytimg.com/vi/6coRpBWYb5Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiEgE4nfhHRn1154H3GXSuFmx12A",
+      "embedLink": "https://www.youtube.com/embed/6coRpBWYb5Y"
+    },
+    {
+      "id": "17",
+      "caption": "KING OF KOTHA",
+      "url": "https://i.ytimg.com/vi/dljEVygvwG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDa8Mlr-UlFO4WE55i_3uOukmULAw",
+      "embedLink": "https://www.youtube.com/embed/dljEVygvwG8"
+    },
+    {
+      "id": "19",
+      "caption": "AIR- bender",
+      "url": "https://i.ytimg.com/vi/ByAn8DF8Ykk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5o3u-3-rzP9oulp_gx-Jeb9R0Rw",
+      "embedLink": "https://www.youtube.com/embed/ByAn8DF8Ykk"
+    },
+    {
+      "id": "22",
+      "caption": "SALAAR",
+      "url": "https://i.ytimg.com/vi/9Im1q4gvk1M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSWDNQJqpjFF_E4-itYtLPgANfTg",
+      "embedLink": "https://www.youtube.com/embed/gvk1M&t=54s"
+    },
+    {
+      "id": "23",
+      "caption": "ARMY OF THIEVES",
+      "url": "https://i.ytimg.com/vi/Ith2WetKXlg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq1d1ir2ZtieJW_67VSrHLi9xyCw",
+      "embedLink": "https://www.youtube.com/embed/Ith2WetKXlg"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "TOP -LIST",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Brahmayugam",
+          "url": "https://timesofindia.indiatimes.com/photo/102820189.cms",
+          "embedLink": "https://www.youtube.com/embed/SfsWWXQK8pg"
+        },
+        {
+          "id": "14",
+          "caption": "ANVESHIPIN KANDATHUM",
+          "url": "https://i.ytimg.com/vi/FQZ5_AtbO2o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzWfb5Rnz1ZFuU-2HTpsZHZefw2g",
+          "embedLink": "https://www.youtube.com/embed/FQZ5_AtbO2o"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "WATCH-LATER",
+      "allVideos": [
+        {
+          "id": "23",
+          "caption": "ARMY OF THIEVES",
+          "url": "https://i.ytimg.com/vi/Ith2WetKXlg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq1d1ir2ZtieJW_67VSrHLi9xyCw",
+          "embedLink": "https://www.youtube.com/embed/Ith2WetKXlg"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "ALL TIME FAV",
+      "allVideos": [
+        {
+          "id": "11",
+          "caption": "PHILIPS",
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Philip%27s_Movie_Poster.jpg",
+          "embedLink": "https://www.youtube.com/embed/kE-NXuzFnUU"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Brahmayugam",
+      "embedLink": "https://www.youtube.com/embed/SfsWWXQK8pg",
+      "timestamp": "02/06/2024, 02:38:51 PM",
+      "id": 1
+    },
+    {
+      "caption": "AIR- bender",
+      "embedLink": "https://www.youtube.com/embed/ByAn8DF8Ykk",
+      "timestamp": "02/06/2024, 02:41:51 PM",
+      "id": 2
+    }
+  ]
+}
